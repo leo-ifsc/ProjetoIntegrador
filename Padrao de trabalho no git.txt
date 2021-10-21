@@ -1,0 +1,24 @@
+o padrão para trabalhar é:
+Começo o trabalho, git pull (atualizo tudo que tem no repositório)
+
+git status (para checar se ta tudo ok)
+
+"mexo no codigo e arquivos
+dai finalizando isso "
+
+tu vai fazer um git status (para ver o que foi mexido)
+ 
+PS: pergunta para alguem se fez alguma atualização ou ve no repositório o ultimo commit feito 
+caso precise att, da mais um git pull
+
+finalizando essa parte de checkup com teu codigo e o codigo dos outros 
+
+vai pra um git add .
+
+git status 
+
+git commit -m"akaskajkas"
+
+e finaliza com git push 
+
+e seja feliz 
